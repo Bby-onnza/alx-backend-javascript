@@ -1,0 +1,7 @@
+{
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/usr/lib/node_modules/npm/lib/cli.js',
+    '/usr/lib/node_modules/npm/bin/npm-cli.js'
+  ]
+}
