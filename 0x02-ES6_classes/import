@@ -1,0 +1,2 @@
+t dollar = new Currency('$', 'Dollars');
+console.log(dollar.displayFullCurrency());
